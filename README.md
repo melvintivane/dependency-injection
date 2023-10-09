@@ -50,11 +50,9 @@ Para executar este projeto, você pode seguir estas etapas:
 4. Compile as classes Java:
    ```
    javac dependency_injection_java/*.java
-
 5. Execute o aplicativo Java:
    ```
    java dependency_injection_java.App
-
 ### Usando JavaScript
 4. Execute o módulo JavaScript
    ```
