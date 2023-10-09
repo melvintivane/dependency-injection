@@ -41,3 +41,21 @@ Para executar este projeto, você pode seguir estas etapas:
    ```bash
    git clone https://github.com/melvintivane/nome-do-repositorio.git
 
+3. Navegue até a pasta raiz do projeto:
+   ```bash
+   cd dependency_injection_java
+
+### Usando Java
+
+4. Compile as classes Java:
+   ```
+   javac dependency_injection_java/*.java
+
+5. Execute o aplicativo Java:
+   ```
+   java dependency_injection_java.App
+
+### Usando JavaScript
+4. Execute o módulo JavaScript
+   ```
+   node pedido.js
